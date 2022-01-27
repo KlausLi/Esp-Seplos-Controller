@@ -34,6 +34,10 @@ Internet Explorer wird nicht unterstützt!(die kochen wieder eigenes Sueppchen b
 Der Esp8266 ist über ein Rs485 Modul mit dem Seplos BMS verbunden und kann diesem seine Daten entlocken.
 Shutdown Button: Das BMS wird ausgeschaltet , selbe Art als ob man länger auf dem BMS tastschalter bleibt.
 
+Das Bms wird an einem der beiden Rs485 Buchsen angeschlossen , normalerweise schliesst man hier den Batteriemonitor über Rs485 Adapter an , jetzt eben hald stattdessen den Esp fürs Monitoring anschliessen.
+Der 2.te Rs485  ist für das anschliessen weiterer Seplos BMS'e, glaub 15  im Verbund sind möglich . 
+Der Dip schalter muss für einzelbetrieb nicht verändert werden , alle off!
+
 Kurzum die Firmware die es hier zum Download gibt, liest das Bms aus und es lässt sich per Button Klick abschalten.
 Es fehlen derzeit  noch die Warnings .
 
