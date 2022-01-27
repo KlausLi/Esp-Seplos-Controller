@@ -111,6 +111,9 @@ Vorab schon mal erwähnt am RS45 Kabel das zum BMS führt sind ´es die ersten 2
 braun-weiss = A
 braun = B
 
+Anschluss : A zu A und B zu B
+
+
 Falls Ihr mich unterstützen wollt, Spenden sind herzlich willkommen und würde mich sehr freuen :-)
 Hier bitte - https://paypal.me/armerprogrammer
 
