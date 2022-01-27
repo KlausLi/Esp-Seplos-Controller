@@ -106,7 +106,7 @@ und klickt auf Save (Button ganz unten)
 CONFIGPORTAL############################################################################################
 
 
-DER BASTELPLAN3000 passt hier zwar nicht 100% , werde  ich noch anpassen.
+DER BASTELPLAN3000 MOD passt 100%.
 Vorab schon mal erwähnt am RS45 Kabel das zum BMS führt sind ´es die ersten 2 litzen die A und B darstellen 
 braun-weiss = A
 braun = B
