@@ -41,6 +41,7 @@ Am Can Bus kommen die Wechselrichter dran, wann jemand so ein redseliges Gerät 
 
 Kurzum die Firmware die es hier zum Download gibt, liest das Bms aus und es lässt sich per Button Klick abschalten.
 Es fehlen derzeit  noch die Warnings .
+Hinweis: Bei arbeiten mit dem Seplos Batteriemonitor am RS485 Port den ESP vom BMS abstecken!
 
 Die Firmware(firmware_vX.X.X.X.bin") ist im Verzeichnis espflasher.
 Diese kann unkompliziert auf einen 4Mbyte Esp mit dem im Verzeichnis enhaltenen
