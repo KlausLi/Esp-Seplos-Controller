@@ -46,7 +46,7 @@ Dieses Tool FlashESP8266.exe ist nicht von mir , aber hat schon hevorragende Die
 
 Was kann der ESP8266 Seplos Controller :
 
-- Mqtt Schnittstelle, Payload ist ein Json Array , die Topic Addressen werden in der ESP Weg UI angezeigt und sind für jeden Esp induviduell unique.
+- Mqtt Schnittstelle, Payload ist ein Json Array , die Topic Addressen werden in der ESP WeBUI angezeigt und sind für jeden Esp induviduell unique.
 - Http Schnittstelle, Daten werden als Json Array ausgegeben
 - SAVE CONTROLER Button ist für spätere Funktionen reserviert
 - Derzeit kann nur ein BMS damit ausgelesen werden, Multipackreading ... coming soon
