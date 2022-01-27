@@ -37,6 +37,7 @@ Shutdown Button: Das BMS wird ausgeschaltet , selbe Art als ob man länger auf d
 Das Bms wird an einem der beiden Rs485 Buchsen angeschlossen , normalerweise schliesst man hier den Batteriemonitor über Rs485 Adapter an , jetzt eben hald stattdessen den Esp fürs Monitoring anschliessen.
 Der 2.te Rs485  ist für das anschliessen weiterer Seplos BMS'e, glaub 15  im Verbund sind möglich . 
 Der Dip schalter muss für einzelbetrieb nicht verändert werden , alle off!
+Am Can Bus kommen die Wechselrichter dran, wann jemand so ein redseliges Gerät hat, kann der Wechselrichter auch das BMS abschalten(hat aber jetzt nix mit der Software Hier zu tun!).
 
 Kurzum die Firmware die es hier zum Download gibt, liest das Bms aus und es lässt sich per Button Klick abschalten.
 Es fehlen derzeit  noch die Warnings .
