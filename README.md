@@ -51,7 +51,7 @@ Was kann der ESP8266 Seplos Controller :
 - SAVE CONTROLER Button ist für spätere Funktionen reserviert
 - Derzeit kann nur ein BMS damit ausgelesen werden, Multipackreading ... coming soon
 
-- Die SOC Zeile blinkt wann was einen discharge oder Charge gibt, ansonsten bei Current==0 , bleibt es weiss.
+- Die SOC Zeile blinkt wann es einen Discharge oder Charge übers BMS gibt, ansonsten bei Current==0 , bleibt die Zeile weiss und blinkt nicht.
 - Die SOC Spalte ist wie im Batteriemonitor farbig 0-30% red, 30-50% yellow,  50-100% green!
 - Esp Herzschlag bekommt die zusätzliche Bezeichnung DIS anghängt wann die Batterie Leistung abgeben muss!
 
@@ -106,7 +106,10 @@ und klickt auf Save (Button ganz unten)
 CONFIGPORTAL############################################################################################
 
 
-
+DER BASTELPLAN3000 passt hier zwar nicht 100% , werde  ich noch anpassen.
+Vorab schon mal erwähnt am RS45 Kabel das zum BMS führt sind ´es die ersten 2 litzen die A und B darstellen 
+braun-weiss = A
+braun = B
 
 Falls Ihr mich unterstützen wollt, Spenden sind herzlich willkommen und würde mich sehr freuen :-)
 Hier bitte - https://paypal.me/armerprogrammer
