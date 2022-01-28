@@ -61,6 +61,8 @@ Was kann der ESP8266 Seplos Controller :
 - Die SOC Spalte ist wie im Batteriemonitor farbig 0-30% red, 30-50% yellow,  50-100% green!
 - Esp Herzschlag bekommt die zusätzliche Bezeichnung DIS anghängt wann die Batterie Leistung abgeben muss!
 
+-Die übertragenen Daten sind Save , Länge und CRC werden verglichen
+
 
 
 
