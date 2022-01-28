@@ -123,4 +123,4 @@ Anschluss : A zu A und B zu B
 Falls Ihr mich unterstützen wollt, Spenden sind herzlich willkommen und würde mich sehr freuen :-)
 Hier bitte - https://paypal.me/armerprogrammer
 
-<img src="BastelPlan3000_Soyosource_Controller_by_BavarianSuperGuy.png" alt="Soyosource Controller by BavarianSuperGuy"/>
+<img src="BastelPlan3000_S_Controller_by_BavarianSuperGuy.png" alt="Soyosource Controller by BavarianSuperGuy"/>
