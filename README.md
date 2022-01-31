@@ -63,7 +63,7 @@ Was kann der ESP8266 Seplos Controller :
 
 -Die übertragenen Daten sind Save , Länge und CRC werden verglichen
 
-...für diejenigen die's genau wissen wollen , serial1 am Esp ist der Dbug Serial und auf Gpio2  am Esp zu finden, dort wird auch der vom BMS empfangene Frame ausgegeben
+...für diejenigen die's genau wissen wollen , serial1 am Esp ist der Dbug Serial und auf Gpio2(115200Baud)  am Esp zu finden, dort wird auch der vom BMS empfangene Frame ausgegeben
 
 
 
