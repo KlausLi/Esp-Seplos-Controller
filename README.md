@@ -27,7 +27,7 @@ wann er ständig versucht sich  ins Wlan einzuloggen
 
 Internet Explorer wird nicht unterstützt!(die kochen wieder eigenes Sueppchen bei Slider funktion)
 
-<img src="Seplos.png" alt="Soyosource Controller by BavarianSuperGuy"/>
+<img src="Seplos.png" alt="Seplos Controller by BavarianSuperGuy"/>
 
 
 # Seplos Controller mit Webseite
@@ -69,14 +69,14 @@ Was kann der ESP8266 Seplos Controller :
 
 
 RS485 ttl Adapter (2 verschiedene getestet)
-- rs485 adapter A an A von Soyo anschliessen und B an B
+- rs485 adapter A an A von SEPLOS anschliessen und B an B
 
-<img src="rs485.png" alt="Soyosource Controller by BavarianSuperGuy"/>
+<img src="rs485.png" alt="Seplos Controller by BavarianSuperGuy"/>
 - Beim "DI DE RE RO" Rs485 Modul
 werden die mittleren Rs485 Pins "DE RE" auf einen Pin gebrückt an Esp GPIO0 angeschlossen.
 Dann Rs485 "DI" auf Esp TX  und Rs485 "RO" auf Esp RX 
 
-<img src="rs485_2 .png" alt="Soyosource Controller by BavarianSuperGuy"/>
+<img src="rs485_2 .png" alt="Seplos Controller by BavarianSuperGuy"/>
 - Beim RX TX Rs485 Modul
 wird der Rs485 TX mit Esp TX verbunden und Rs485 RX mit Esp RX verbunden , also nicht kreuzen!
 
@@ -87,12 +87,12 @@ Keinen USB/TTL Adapter als 3,3v Poduktiv Stromquelle verwenden, für erstflashen
 ESP:
 
 EINRICHTUNG##############################################################################################
-- 0.Bei Nutzung von Mqtt: Mqtt.fx Client öffnen mit Broker verbinden und Topic : 'Soyosource/#' abonnieren
+- 0.Bei Nutzung von Mqtt: Mqtt.fx Client öffnen mit Broker verbinden und Topic : 'Seplos/#' abonnieren
 - 0.1 Es kommt nach Schritt 8. ein Info Publish vom Esp mit der IP adresse.
 - 0.2 Man kann die Ip Adresse nat. auch auf dem herkömmlichen Weg herausfinden
 - 1.Firmware auf den gelöschten Esp8266 flashen
 - 2.Esp Neustart
-- 3.Im Wlan nach SOYO_... suchen
+- 3.Im Wlan nach SEPLOS_... suchen
 - 4.Wlan mit Passwort 12345678 verbinden
 - 5.Es öffnet sich automatisch Browser Fenster mit 192.168.4.1
 - 6.Unter Configuration
@@ -127,4 +127,4 @@ Anschluss : A zu A und B zu B
 Falls Ihr mich unterstützen wollt, Spenden sind herzlich willkommen und würde mich sehr freuen :-)
 Hier bitte - https://paypal.me/armerprogrammer
 
-<img src="BastelPlan3000_S_Controller_by_BavarianSuperGuy.png" alt="Soyosource Controller by BavarianSuperGuy"/>
+<img src="BastelPlan3000_S_Controller_by_BavarianSuperGuy.png" alt="Seplos Controller by BavarianSuperGuy"/>
