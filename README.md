@@ -31,7 +31,7 @@ Internet Explorer wird nicht unterstützt!(die kochen wieder eigenes Sueppchen b
 
 
 # Seplos Controller mit Webseite
-Der Esp8266 ist über ein Rs485 Modul mit dem Seplos BMS verbunden und kann diesem seine Daten entlocken.
+Der Esp8266 ist über ein Rs485 Modul mit dem Seplos BMS verbunden und kann diesem seine Daten(Protokoll v2.0) entlocken.
 Shutdown Button: Das BMS wird ausgeschaltet , selbe Art als ob man länger auf dem BMS tastschalter bleibt.
 
 Das Bms wird an einem der beiden Rs485 Buchsen angeschlossen , normalerweise schliesst man hier den Batteriemonitor über Rs485 Adapter an , jetzt eben hald stattdessen den Esp fürs Monitoring anschliessen.
