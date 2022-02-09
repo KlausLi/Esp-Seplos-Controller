@@ -66,6 +66,8 @@ Was kann der ESP8266 Seplos Controller :
 ...für diejenigen die's genau wissen wollen , serial1 am Esp ist der Dbug Serial und auf Gpio2(115200Baud)  am Esp zu finden, dort wird auch der vom BMS empfangene Frame ausgegeben
 
 als payload bei Mqtt für shutdown den wert true senden
+In the Moment , the Esp Seplos Controller only Comunicate with Address 0!
+ Dipswitches all OFF, please.
 
 
 RS485 ttl Adapter (2 verschiedene getestet)
