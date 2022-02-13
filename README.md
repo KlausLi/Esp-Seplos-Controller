@@ -51,6 +51,7 @@ Dieses Tool FlashESP8266.exe ist nicht von mir , aber hat schon hevorragende Die
 <img src="Webseite SEPLOS Controller.png" alt="Seplos Controller by BavarianSuperGuy"/>
 
 13.02.2022 Dartvader Pack VOLL Geladen Cell6 mit LampBalancer gebändigt und diesesmal Cell10 ausgerissen
+- 5639Wh wurden von der Sonne geladen 
 <img src="99.8-Seplos - Grafana.png" alt="DarthVader LifePO4 SEPLOS Controller by BavarianSuperGuy"/>
 
 
