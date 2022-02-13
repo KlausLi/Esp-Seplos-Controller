@@ -50,6 +50,11 @@ Dieses Tool FlashESP8266.exe ist nicht von mir , aber hat schon hevorragende Die
 
 <img src="Webseite SEPLOS Controller.png" alt="Seplos Controller by BavarianSuperGuy"/>
 
+13.02.2022 Dartvader Pack VOLL Geladen Cell6 mit LampBalancer gebändigt und diesesmal Cell10 ausgerissen
+<img src="99.8-Seplos - Grafana.png" alt="DarthVader LifePO4 SEPLOS Controller by BavarianSuperGuy"/>
+
+
+
 Was kann der ESP8266 Seplos Controller :
 
 - Mqtt Schnittstelle, Payload ist ein Json Array , die Topic Addressen werden in der ESP WeBUI angezeigt und sind für jeden Esp induviduell unique.
