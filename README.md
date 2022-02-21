@@ -1,3 +1,7 @@
+Currently, the Mqtt publish every second is a bit buggy! (After a while nothing will be sent)
+It is better to use the http interface at the moment. 
+Update coming soon.
+
 Was nett wäre, Vergesst bitte nicht meinen Kanal zu abonnieren und zu liken ;-) ... wann disliken gut wär, dann das auch :-))
 
 https://www.youtube.com/c/BavarianSuperGuy
