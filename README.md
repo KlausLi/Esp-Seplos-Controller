@@ -6,6 +6,9 @@ Was nett wäre, Vergesst bitte nicht meinen Kanal zu abonnieren und zu liken ;-)
 
 https://www.youtube.com/c/BavarianSuperGuy
 
+DIY BATTERY with "Die Wilde Hilde" https://youtu.be/PTiBvcVJqQ0
+Unpack Seplos "Die Wilde Hilde" https://youtu.be/xBSRQ2GIqGY
+
 
 Ich übernehme keine Haftung für Schäden, die aufgrund der Nutzung 
 der Software entstehen oder entstanden sind. 
