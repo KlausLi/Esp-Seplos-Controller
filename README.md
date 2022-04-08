@@ -6,6 +6,7 @@ Was nett wäre, Vergesst bitte nicht meinen Kanal zu abonnieren und zu liken ;-)
 
 https://www.youtube.com/c/BavarianSuperGuy
 
+- ESP-Seplos-Controller https://youtube.com/shorts/t7gg1kQGDu8
 - DIY BATTERY with "Die Wilde Hilde" https://youtu.be/PTiBvcVJqQ0
 - Unpack Seplos "Die Wilde Hilde" https://youtu.be/xBSRQ2GIqGY
 
