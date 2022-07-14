@@ -6,6 +6,9 @@ Was nett wäre, Vergesst bitte nicht meinen Kanal zu abonnieren und zu liken ;-)
 
 https://www.youtube.com/c/BavarianSuperGuy
 
+Falls Ihr mich unterstützen wollt, Spenden sind herzlich willkommen und würde mich sehr freuen :-)
+Hier bitte - https://paypal.me/BSGuy
+
 - ESP-Seplos-Controller https://youtube.com/shorts/0HGCiqtWsLY
 - ESP-Seplos-Controller https://youtube.com/shorts/t7gg1kQGDu8
 - DIY BATTERY with "Die Wilde Hilde" https://youtu.be/PTiBvcVJqQ0
@@ -141,7 +144,5 @@ braun = B
 Anschluss : A zu A und B zu B
 getestet mit RS485 Modul1
 
-Falls Ihr mich unterstützen wollt, Spenden sind herzlich willkommen und würde mich sehr freuen :-)
-Hier bitte - https://paypal.me/armerprogrammer
 
 <img src="BastelPlan3000_S_Controller_by_BavarianSuperGuy.png" alt="Seplos Controller by BavarianSuperGuy"/>
