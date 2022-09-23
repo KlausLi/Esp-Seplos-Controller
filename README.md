@@ -1,3 +1,4 @@
+<img src="BastelPlan0_ESP8266_Rs485_Modul.png" alt="Soyosource Controller by BavarianSuperGuy"/>
 Currently, the Mqtt publish every second is a bit buggy! (After a while nothing will be sent)
 It is better to use the http interface at the moment. 
 Update coming soon.
